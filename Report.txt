@@ -1,0 +1,8 @@
+Report
+
+ 
+Based on the data shown in “Pandas, Pandas.” The percentage of overall passing score in school type “Charter” is better than the school type “District” which is 90.43 against 53.67. All the categories in “Charter” are above “District”. From the information observed in this chart, the education in charter school is better than district school. However, the gap of average math score between these two type schools is extremely high. 
+
+
+ 
+The next part will be analysed is “score by school spending”. Basically, it is not the more budget being spent, the higher score the students will gain. The budget from 0 to 585 for each student gains the best passing rate comparing with the rest budgets, which 90 % students can pass their reading and math. However, the more funding is given, the worse passing rate will be raised. According to the picture shown in here, in the budget range 645 to 680, the overall passing rate merely have 53.53% which is lowest among these charts. How to put the money into right place has become a big challenge to each school.
